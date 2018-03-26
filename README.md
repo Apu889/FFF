@@ -1,5 +1,5 @@
 # FFF
-Firefox are going worse since they introducing WebExtension and making up that sexy Australis look for being like an Edge's doppleganger including those boxy ugly tabs. This new Photon UI are very unpleasant in my eyes, so i made this. This is **unfinished** UI retouch and looks bit weird on FF58 higher - i don't care.
+Firefox are going worse since they introducing WebExtension and making up that sexy Australis look for being like an Edge's doppleganger including those boxy ugly tabs. This new Photon UI are very unpleasant in my eyes, so i made this. This is **unfinished** UI retouch and looks bit weird on FF58 higher - and i don't care.
 
 # UI Changes
 Default look:
@@ -26,7 +26,7 @@ This only optimally work on Firefox 57++
 
 2. Type `about:support` in the URL bar.
 3. Click Open Folder on Profile Folder section.
-4. Look for `chrome` folder, if that folder doesn't exist, create it.
+4. Look for `chrome` folder, if it doesn't exist, create it.
 5. Download `userChrome.css` from this page, and place it to that `chrome` folder.***
 6. Restart Firefox.
 

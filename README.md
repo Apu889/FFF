@@ -1,5 +1,5 @@
 # FFF
-Firefox are going worse since they introducing WebExtension and making up that sexy Australis look for being like an Edge's doppleganger including those boxy ugly tabs. I don't like the Photon UI at all so i made this. This is **unfinished** UI rework and looks bit weird on FF58 higher - i don't care.
+Firefox are going worse since they introducing WebExtension and making up that sexy Australis look for being like an Edge's doppleganger including those boxy ugly tabs. This new Photon UI are very unpleasant in my eyes, so i made this. This is **unfinished** UI retouch and looks bit weird on FF58 higher - i don't care.
 
 # UI Changes
 Default look:

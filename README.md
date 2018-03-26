@@ -27,8 +27,8 @@ This only optimally work on Firefox 57++
 2. Type `about:support` in the URL bar.
 3. Click Open Folder on Profile Folder section.
 4. Look for `chrome` folder, if that folder doesn't exist, create it.
-5. Download `UserChrome.css` from this page, and place it to that `chrome` folder.***
+5. Download `userChrome.css` from this page, and place it to that `chrome` folder.***
 6. Restart Firefox.
 
 _** Make sure these layout are in the **exact following order**: back - forward - urlbar - refresh  
-*** Also grab `userchrome.xml` & `scrollbar` if you want the custom scrollbar look_
+*** Also grab `userChrome.xml` & `scrollbar.as.css` if you want custom scrollbar look_
